@@ -8,7 +8,7 @@ function setup() {
 
 function draw() 
 {
-   background("red");
+   background("blue");
 
   if (keyIsDown(RIGHT_ARROW)) 
   {
